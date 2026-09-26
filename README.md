@@ -11,4 +11,4 @@ As a database, I used SQLite. Now there are 154 facts stored in the database.
 
 in the future, I plan to connect the bot to a free online server so that the bot works around the clock and expands the database with facts.
 
-That was my first telegram bot, so I have a lot of things left to learn. Have fun using it😊
+That was my first telegram bot, so I have a lot of things left to learn. Have fun using it 😊
